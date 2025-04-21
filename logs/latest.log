@@ -1,0 +1,1052 @@
+[21Apr2025 17:27:33.482] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.160, --fml.fmlVersion, 4.0.38, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[21Apr2025 17:27:33.485] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 24.0.1+9-30
+[21Apr2025 17:27:33.487] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.4+main.d2e20e43 starting: java version 24.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[21Apr2025 17:27:34.325] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Apr2025 17:27:34.376] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/D:/Spil/mineserv/GlorpSMP/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/ Service=ModLauncher Env=SERVER
+[21Apr2025 17:27:34.505] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.160:server]
+[21Apr2025 17:27:34.526] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.160-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries\net\neoforged\neoforge\21.1.160\neoforge-21.1.160-universal.jar]], reader: mod manifest]
+[21Apr2025 17:27:34.537] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "accessories-neoforge-1.1.0-beta.40+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.544] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "aether-1.21.1-1.5.8-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.548] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "aether_protect_your_moa-1.21.1-1.0.0-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.553] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "aether_treasure_reforging-1.21.1-1.0.1-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.556] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "AetherVillages-1.21.1-1.0.8-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.565] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "AI-Improvements-1.21-0.5.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.570] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "almostunified-neoforge-1.21.1-1.2.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.573] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "amendments-1.21-1.2.24-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.577] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "animal_feeding_trough-1.1.2+1.21-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.581] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "appleskin-neoforge-mc1.21-3.0.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.584] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Applied-Mekanistics-1.6.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.589] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "appliedenergistics2-19.2.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.592] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "architectury-13.0.8-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.596] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ars_additions-1.21.1-21.2.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.601] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ars_elemental-1.21.1-0.7.3.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.607] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ars_nouveau-1.21.1-5.8.1-all.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.613] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ars_technica-1.21.1-2.0.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.616] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "arsdelight-2.1.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.620] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "artifacts-neoforge-12.1.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.623] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "athena-neoforge-1.21-4.0.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.626] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "attributefix-neoforge-1.21.1-21.1.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.630] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "AutochefsDelight-1.21.1-NeoForge-2.0.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.634] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.1-21.0.41.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.638] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BarteringStation-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.642] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bcc-21.1.3+mc1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.646] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bellsandwhistles-0.4.7-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.648] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.652] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "betterchunkloading-1.21-5.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.656] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BetterF3-11.0.3-NeoForge-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "betterspawnercontrol-1.21.1-4.7.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.662] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BetterThirdPerson-neoforge-1.9.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.665] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BetterTridents-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.668] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "blahaj-neoforge-1.21.1-2.0.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.671] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bookshelf-neoforge-1.21.1-21.1.58.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.675] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BrewinAndChewin-neoforge-4.3.0+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.678] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "BridgingMod-2.6.2+1.21.1.neoforge-release.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.682] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "caelus-neoforge-7.0.1+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.685] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Chargers-1.21.1-7.0.0.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.691] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "charmofundying-neoforge-9.1.0+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.694] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "chat_heads-0.13.17-neoforge-1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.697] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cherishedworlds-neoforge-10.1.1+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.736] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "chipped-neoforge-1.21.1-4.0.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.741] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ChippedExpress-universal-21x.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.745] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "chisel_chipped_integration-v1.3.7-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.747] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "chunksending-1.21-2.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.751] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cleanswing-1.9.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.754] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "clickadv-1.21-3.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.756] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.758] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cobweb-neoforge-1.21-1.3.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.767] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CodeChickenLib-1.21.1-4.6.0.521.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.771] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "collective-1.21.1-8.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.774] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "connectedglass-1.1.13-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.777] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "connectivity-1.21.1-7.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.781] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ConstructionSticks-1.21.1-1.1.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.785] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Controlling-neoforge-1.21.1-19.0.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.787] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "coroutil-neoforge-1.21.0-1.3.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.791] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CraftTweaker-neoforge-1.21.1-21.0.27.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.797] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-1.21.1-6.0.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.800] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-confectionery1.21.1_v1.1.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.803] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-dragons-plus-1.3.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.806] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-enchantment-industry-2.0.11.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.808] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_better_villagers-1.2.9-Neoforge-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.813] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Create_Desires-2-Dreams-1.21.1-2.0.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_jetpack_curios-1.2.0-neoforge-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_mechanical_spawner-1.21.1-1.1.2-6.0.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_oxidized-0.1.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.823] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_winery-1.6.0-neoforge-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.826] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "createaddition-1.4.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.830] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "createframed-1.21.1-1.6.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.833] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "createoreexcavation-1.21-1.6.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.836] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CreativeCore_NEOFORGE_v2.13.2_mc1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.838] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cristellib-neoforge-1.2.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.843] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Cucumber-1.21.1-8.0.11.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.846] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "culturaldelights-0.17.6.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.848] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cupboard-1.21-2.9.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.851] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.4.2+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.854] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "doubledoors-1.21.1-7.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.856] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dragondropselytra-1.21.1-3.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.860] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "durabilitytooltip-1.1.5-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.863] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "easyelytratakeoff-1.21.1-4.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.866] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "EasyShulkerBoxes-v21.1.2-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.870] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "elytraslot-neoforge-9.0.2+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.873] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Emojiful-Neoforge-1.21-5.2.0-all.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.880] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "EnderStorage-1.21.1-2.13.0.191.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.883] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ends_delight-2.5.1+neoforge.1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.886] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "engineeredcompatibility-4.1.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.889] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Engineers Delight 1.21.1 neoforge R.1.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.892] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_model_features_neoforge_1.21.1-2.4.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.894] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entity_texture_features_neoforge_1.21.1-6.2.9.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.897] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "entityculling-neoforge-1.7.4-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.901] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ExplorersCompass-1.21.1-3.0.3-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.905] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ExtremeSoundMuffler-3.49_NeoForge-1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.907] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.912] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FarmersDelight-1.21.1-1.2.7.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.914] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FarmersStructures-1.0.1-1.21.1_neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.916] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fast-ip-ping-v1.0.5-mc1.21.1-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.918] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fastasyncworldsave-1.21-2.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.922] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fastleafdecay-35.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.925] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FastSuite-1.21.1-6.0.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.930] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ferritecore-7.0.2-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.933] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.937] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FramedBlocks-10.3.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.940] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "framework-neoforge-1.21.1-0.9.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.943] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-chunks-neoforge-2101.1.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.946] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-essentials-neoforge-2101.1.6.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.948] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-filter-system-neoforge-21.1.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.952] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-library-neoforge-2101.1.12.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.954] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-pack-companion-21.1.1+mc1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.957] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-quests-neoforge-2101.1.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.958] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-quests-neoforge-2101.1.9.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.962] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-ranks-neoforge-2101.1.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.965] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-teams-neoforge-2101.1.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.968] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-ultimine-neoforge-2101.1.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.970] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-xmod-compat-neoforge-21.1.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.973] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftbbackups2-neoforge-1.21-1.0.28.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.976] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftbjeiextras-21.1.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.978] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fusion-1.2.7-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.981] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.7.5.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.983] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "gpumemleakfix-1.21-1.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.985] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "gravestone-neoforge-1.21.1-1.0.24.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.987] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "gravestonecurioscompat-1.21.1-NeoForge-2.1.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.992] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "guideme-21.1.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:34.997] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "handcrafted-neoforge-1.21.1-4.0.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.001] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "harvest-with-ease-neoforge-1.21-9.4.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.003] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Highlighter-1.21-neoforge-1.1.11.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.007] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Iceberg-1.21.1-neoforge-1.3.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.010] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "immersive_aircraft-1.2.2+1.21.1-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.015] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ImmersiveEngineering-1.21.1-12.1.1-186.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.018] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "iris-neoforge-1.8.8+mc1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.021] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "itemcollectors-1.1.10-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.023] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.1-NeoForge-15.10.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.026] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "JadeAddons-1.21.1-NeoForge-6.1.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.028] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.21.0.247.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.031] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jeimultiblocks-1.21.1-1.0.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.033] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jrftl-1.21-neoforge-1.8.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.035] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "just-hammers-neoforge-21.1.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.037] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.041] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "JustEnoughResources-NeoForge-1.21.1-1.6.0.13.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.043] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "justplayerheads-1.21.1-4.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.046] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "konkrete_neoforge_1.9.9_MC_1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.050] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "L_Ender's Cataclysm-2.65-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.052] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lendersdelight-1.0.6-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.055] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lionfishapi-2.6.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.057] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithium-neoforge-0.15.0+mc1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.060] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lithostitched-neoforge-1.21.1-1.4.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.062] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "LittleTiles_BETA_v1.6.0-pre161_mc1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.065] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "logprot-1.21-3.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.067] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lootintegration_townsandtowers-1.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.070] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lootintegrations-1.21-4.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.072] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lootintegrations_cataclysm-1.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.074] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lootr-neoforge-1.21-1.10.35.91.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.076] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MagnumTorch-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.078] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "man_of_many_planes-0.2.1+1.21.1-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.080] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "matc-1.7.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.083] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-bridges-3.0.0-mc1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.085] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-doors-1.1.2-mc1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.089] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-fences-1.1.2-mc1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.092] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-fences-1.2.0-1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.095] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-furniture-3.3.0-mc1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.097] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-lights-1.1.1-mc1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.100] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-paintings-1.0.5-1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.103] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-paths-1.1.0neoforge-mc1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.106] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-stairs-1.0.1-1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.108] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.113] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mcw-windows-2.3.0-mc1.21.1neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.118] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Mekanism-1.21.1-10.7.13.78.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.121] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MekanismAdditions-1.21.1-10.7.13.78.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.124] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MekanismGenerators-1.21.1-10.7.13.78.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.126] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MekanismTools-1.21.1-10.7.13.78.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.128] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MobLassos-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.131] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "moonlight-1.21-2.18.9-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.134] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "moredragoneggs-5.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.136] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MouseTweaks-neoforge-mc1.21-2.26.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.138] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mru-1.0.16+1.21.1+neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.141] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MysticalAgradditions-1.21.1-8.0.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.144] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "MysticalAgriculture-1.21.1-8.0.14.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.146] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "NaturesCompass-1.21.1-3.0.3-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.148] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "netherportalfix-neoforge-1.21.1-21.1.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.152] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.155] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "notrample-1.21.1-1.0.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.157] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "oceansdelight-neoforge-1.0.3-1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.161] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "oritech-neoforge-0.14.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.164] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.166] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "packetfixer-neoforge-2.1.0-1.21-to-1.21.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.168] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Patchouli-1.21-88-NEOFORGE.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.172] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.174] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Placebo-1.21.1-9.7.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.176] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Placebo-1.21.1-9.8.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.178] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "plushies-neoforge-1.5.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.181] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "polylib-2100.0.3-build.172-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.184] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "polymorph-neoforge-1.0.9+1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.186] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Ponder-NeoForge-1.21.1-1.0.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.188] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "prickle-neoforge-1.21.1-21.1.6.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.190] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Prism-1.21.1-neoforge-1.0.11.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.193] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.195] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rangedpumps-1.3.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.198] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rechiseled-1.1.6a-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.201] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rechiseled_chipped-1.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.203] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rechiseled_chipped-1.3-1.21.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.205] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "recipeessentials-1.21-4.0.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.207] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.210] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "resourcefullib-neoforge-1.21-3.0.12.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.213] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.216] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "scarecrowsterritory-1.1.11a-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.217] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Searchables-neoforge-1.21.1-1.0.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.220] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "servercountryflags-1.10.4-1.21.1-NEOFORGE.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.222] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "simplemagnets-1.1.12c-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.224] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "smoothchunk-1.21-4.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.226] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.1-3.24.9.1228.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.228] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpackscreateintegration-1.21.1-0.1.1.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.232] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.1-1.3.29.955.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.236] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedstorage-1.21.1-1.4.23.1126.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.238] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedstoragecreateintegration-1.21.1-0.1.8.27.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.241] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedstorageinmotion-1.21.1-0.10.10.86.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.244] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "SpikySpikes-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.246] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "stackrefill-1.21.1-4.6.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.248] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "storagedelight-25.03.09-1.21-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.252] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "structureessentials-1.21.1-4.7.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.254] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.257] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.261] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "supplementaries-1.21-3.1.7-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.265] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "suppsquared-1.21-1.2.8-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.267] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "t_and_t-neoforge-fabric-1.13.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tectonic-neoforge-1.21.1-2.4.3.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.273] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "terra_curio-1.0.9.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.276] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Terralith_1.21.x_v2.5.8.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.279] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tesseract-1.0.37-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.282] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TipTheScales-neoforge-1.21.1-16.0.0.1.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.284] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "titanium-1.21-4.0.37.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.286] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "trading_floor-3.0.4.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.289] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TradingPost-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.292] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "trashcans-1.0.18c-neoforge-mc1.21.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.295] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "twilightdelight-3.0.2.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.300] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "twilightforest-1.21.1-4.7.3094-universal.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.303] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.305] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "visuality-forge-2.0.5.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.307] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.1-21.1.17.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.311] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "WI-Zoom-1.6-MC1.21.1-NeoForge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.313] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar" [locator: {mods folder locator at D:\Spil\mineserv\GlorpSMP\mods}, reader: mod manifest]
+[21Apr2025 17:27:35.814] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: ponder. Using Mod File: D:\Spil\mineserv\GlorpSMP\mods\Ponder-NeoForge-1.21.1-1.0.0.jar
+[21Apr2025 17:27:35.814] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: accessories. Using Mod File: D:\Spil\mineserv\GlorpSMP\mods\accessories-neoforge-1.1.0-beta.40+1.21.1.jar
+[21Apr2025 17:27:35.814] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 89 dependencies adding them to mods collection
+[21Apr2025 17:27:35.814] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-transfer-api-v1-5.4.1+628bf5e919.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.814] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.0.5+1.21.jar" [parent: balm-neoforge-1.21.1-21.0.41.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.814] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-3.4.0+acb05a3919.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.814] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "BlockModelSplitter-2.0.1.jar" [parent: ImmersiveEngineering-1.21.1-12.1.1-186.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-0.1.5.jar" [parent: owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar, locator: jarinjar]
+[21Apr2025 17:27:35.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-item-api-v1-11.1.1+57cdfa8219.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "neoforge-coremods-21.1.160.jar" [parent: neoforge-21.1.160-universal.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-model-loading-api-v1-2.0.0+986ae77219.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-fluids-v1-3.1.6+857185bc19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-screen-handler-api-v1-1.3.87+8dbc56dd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.815] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "MixinSquared-0.1.1.jar" [parent: mixinsquared-forge-0.1.1.jar, locator: jarinjar]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-resource-loader-v0-1.3.1+4ea8954419.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Mechanicals-1.21.1-0.4.27.jar" [parent: create_mechanical_spawner-1.21.1-1.1.2-6.0.4.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-v1-5.0.5+077ba95f19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-indigo-1.7.0+4198af7119.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-convention-tags-v1-2.1.1+7f945d5b19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "netty-0.1.4.jar" [parent: owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar, locator: jarinjar]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "endec-0.1.8.jar" [parent: owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar, locator: jarinjar]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-command-api-v2-2.2.28+36d727be19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-convention-tags-v2-2.9.1+231468e519.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "yabn-1.0.3.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-data-attachment-api-v1-1.2.0+7330bc1b19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "nuggets-neoforge-1.21-1.0.5.jar" [parent: ars_nouveau-1.21.1-5.8.1-all.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.816] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-screen-api-v1-2.0.25+4228281319.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "GrandPower-3.0.2.jar" [parent: oritech-neoforge-0.14.5.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "DualCodecs-0.1.2.jar" [parent: ImmersiveEngineering-1.21.1-12.1.1-186.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "yamlbeans-1.17.jar" [parent: Emojiful-Neoforge-1.21-5.2.0-all.jar, locator: jarinjar]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-particles-v1-4.0.2+824f924c19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "forgified-fabric-loader-2.5.29+0.16.0+1.21-full.jar" [parent: owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "common-image-3.12.0.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bytecodecs-1.1.2.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-content-registries-v0-8.0.17+0a0c14ff19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "greenhouseconfig_toml-1.0.0.jar" [parent: BrewinAndChewin-neoforge-4.3.0+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-transitive-access-wideners-v1-6.1.0+0df3143b19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.817] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-1.2.3.jar" [parent: cristellib-neoforge-1.2.8.jar, locator: jarinjar]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "l2serial-3.0.9+5.jar" [parent: arsdelight-2.1.5.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.4.1.jar" [parent: neoforge-21.1.160-universal.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "httpmime-4.5.10.jar" [parent: entity_texture_features_neoforge_1.21.1-6.2.9.jar, locator: jarinjar]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "gson-0.1.5.jar" [parent: owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar, locator: jarinjar]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-game-rule-api-v1-1.0.53+36d727be19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308dedd1.jar" [parent: owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-lookup-api-v1-1.6.69+c21168c319.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-blockrenderlayer-v1-1.1.52+b089b4bd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "iteminteractions-neoforge-21.1.3.jar" [parent: EasyShulkerBoxes-v21.1.2-1.21.1-NeoForge.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "greenhouseconfig-1.0.0+1.21.1-neoforge.jar" [parent: BrewinAndChewin-neoforge-4.3.0+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "org.mesdag.particlestorm-1.0.4.jar" [parent: terra_curio-1.0.9.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-api-v1-1.0.22+a6e994cd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "spectrelib-neoforge-0.17.2+1.21.jar" [parent: charmofundying-neoforge-9.1.0+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "imageio-metadata-3.12.0.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-resource-conditions-api-v1-4.3.0+5bdd099819.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "gson-0.2.1.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.818] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "flywheel-neoforge-1.21.1-1.0.2.jar" [parent: create-1.21.1-6.0.4.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-item-group-api-v1-4.1.6+e324903319.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "greenhouseconfig_night_config-1.0.0.jar" [parent: greenhouseconfig_toml-1.0.0.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-gametest-api-v1-2.0.5+29f188ce19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "l2modularblocks-3.0.0+4.jar" [parent: arsdelight-2.1.5.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "l2core-3.0.8+1.jar" [parent: arsdelight-2.1.5.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-biome-api-v1-13.0.30+1e62d33c19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-entity-events-v1-1.7.0+1af6e62419.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "json-0.2.1.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "MathParser.org-mXparser-5.2.1.jar" [parent: man_of_many_planes-0.2.1+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-registry-sync-v0-5.1.3+0c9b5b5419.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cumulus_menus-1.21.1-2.0.5-neoforge.jar" [parent: aether-1.21.1-1.5.8-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "commonmark-0.21.0.jar" [parent: mru-1.0.16+1.21.1+neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "s.tf-asm-4.7.3094.jar" [parent: twilightforest-1.21.1-4.7.3094-universal.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "common-io-3.12.0.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.820] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-recipe-api-v1-5.0.13+59440bcc19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-object-builder-api-v1-15.2.1+cc242efd19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinsquared-forge-0.1.1.jar" [parent: supplementaries-1.21-3.1.7-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-loot-api-v2-3.0.15+a3ee712d19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-loot-api-v3-1.0.3+333dfad919.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: iris-neoforge-1.8.8+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "Registrate-MC1.21-1.3.0+63.jar" [parent: twilightdelight-3.0.2.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "nitrogen_internals-1.21.1-1.1.23-neoforge.jar" [parent: aether-1.21.1-1.5.8-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "imageio-webp-3.12.0.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-networking-api-v1-4.3.0+4f690eb619.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-sound-api-v1-1.0.23+10b84f8419.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-message-api-v1-6.0.13+e053909619.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "expandability-neoforge-12.0.0.jar" [parent: artifacts-neoforge-12.1.5.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-lifecycle-events-v1-2.4.0+36b6b86a19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.821] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "common-lang-3.12.0.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.822] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-data-generation-api-v1-20.2.22+2d91a6db19.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.822] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "imageio-core-3.12.0.jar" [parent: yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar, locator: jarinjar]
+[21Apr2025 17:27:35.822] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-events-interaction-v0-0.7.13+7b71cc1619.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.822] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-key-binding-api-v1-1.0.47+62cc7ce119.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.822] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-client-tags-api-v1-1.1.15+e053909619.jar" [parent: forgified-fabric-api-0.107.0+2.0.26+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[21Apr2025 17:27:35.828] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Accessories 1.1.0-beta.40+1.21.1 (accessories)
+		Aether Villages 1.0.8 (aether_villages)
+		AI-Improvements 0.5.3 (aiimprovements)
+		AlmostUnified 1.21.1-1.2.3 (almostunified)
+		Amendments 1.21-1.2.24 (amendments)
+		Animal Feeding Trough 1.1.2 (animal_feeding_trough)
+		AppleSkin 3.0.5+mc1.21 (appleskin)
+		Applied Energistics 2 19.2.8 (ae2)
+		Applied Mekanistics 1.6.2 (appmek)
+		Architectury 13.0.8 (architectury)
+		Ars Additions 1.21.1-21.2.2 (ars_additions)
+		Ars Elemental 0.7.3.0 (ars_elemental)
+		Ars Nouveau 5.8.1 (ars_nouveau)
+		Ars Nouveau's Flavors & Delight 2.1.5 (arsdelight)
+		Ars Technica 2.0.3 (ars_technica)
+		Artifacts 12.1.5 (artifacts)
+		Athena 4.0.1 (athena)
+		AttributeFix 21.1.2 (attributefix)
+		Autochef's Delight 2.0.2+neoforge (autochefsdelight)
+		Balm 21.0.41 (balm)
+		Bartering Station 21.1.0 (barteringstation)
+		Better Advancements 0.4.3.21 (betteradvancements)
+		Better Compatibility Checker 21.1.3 (bcc)
+		Better Spawner Control 4.7 (betterspawnercontrol)
+		Better Third Person 1.9.0 (betterthirdperson)
+		Better Tridents 21.1.0 (bettertridents)
+		betterchunkloading mod 5.4 (betterchunkloading)
+		BetterF3 11.0.3 (betterf3)
+		Blåhaj 2.0.0 (blahaj)
+		Bookshelf 21.1.58 (bookshelf)
+		Brewin' And Chewin' 4.3.0 (brewinandchewin)
+		Bridging Mod 2.6.2+1.21.1 (bridgingmod)
+		Caelus API 7.0.1+1.21.1 (caelus)
+		Chargers 7.0.0 (chargers)
+		Charm of Undying 9.1.0+1.21.1 (charmofundying)
+		Chat Heads 0.13.17 (chat_heads)
+		Cherished Worlds 10.1.1+1.21.1 (cherishedworlds)
+		Chipped 4.0.2 (chipped)
+		ChippedExpress 1.3.2 (chipped_express)
+		Chisel 1.3.6-1.21.1 (chisel_chipped_integration)
+		chunksending mod 2.8 (chunksending)
+		Clean Swing 1.9 (cleanswing)
+		Clickable Advancements mod 3.8 (clickadv)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Cobweb 1.3.3 (cobweb)
+		CodeChicken Lib 4.6.0.521 (codechickenlib)
+		Collective 8.3 (collective)
+		Connected Glass 1.1.13 (connectedglass)
+		Connectivity Mod 7.1 (connectivity)
+		Construction Sticks 1.1.5 (constructionstick)
+		Controlling 19.0.5 (controlling)
+		CoroUtil 1.21.0-1.3.8 (coroutil)
+		CraftTweaker 21.0.27 (crafttweaker)
+		Create 6.0.4 (create)
+		Create Confectionery 1.1.0 (create_confectionery)
+		Create Crafts & Additions 0.0NONE (createaddition)
+		Create Ore Excavation 0.0NONE (createoreexcavation)
+		Create: Bells & Whistles 0.4.7-1.21.1 (bellsandwhistles)
+		Create: Desires 2 Dreams 2.0.0 (create_d2d)
+		Create: Dragons Plus 1.3.5 (create_dragons_plus)
+		Create: Enchantment Industry 2.0.11 (create_enchantment_industry)
+		Create: Framed 1.6.3 (createframed)
+		Create: Jetpack Curios 1.2.0 (create_jetpack_curios)
+		Create: Mechanical spawner 1.1.2-6.0.4 (create_mechanical_spawner)
+		Create: Oxidized 0.1.3 (create_oxidized)
+		Create: Trading Floor 3.0.4 (trading_floor)
+		Create: Winery 1.6.0 (create_winery)
+		Create_Better_Villagers 1.2.9-Neoforge-1.21.1 (create_better_villagers)
+		CreativeCore 2.13.2 (creativecore)
+		Cristel Lib 1.2.8 (cristellib)
+		Cucumber Library 8.0.11 (cucumber)
+		Cultural Delights 0.17.6 (culturaldelights)
+		Cumulus 2.0.5 (cumulus_menus)
+		Cupboard mod 2.9 (cupboard)
+		Curios API 9.4.2+1.21.1 (curios)
+		Double Doors 7.0 (doubledoors)
+		Dragon Drops Elytra 3.5 (dragondropselytra)
+		Durability Tooltip 1.1.5 (durabilitytooltip)
+		Easy Elytra Takeoff 4.5 (easyelytratakeoff)
+		Easy Shulker Boxes 21.1.2 (easyshulkerboxes)
+		Elytra Slot 9.0.2+1.21.1 (elytraslot)
+		Emojiful 5.2.0 (emojiful)
+		End's Delight 2.5.1+neoforge.1.21.1 (ends_delight)
+		EnderStorage 2.13.0.191 (enderstorage)
+		Engineered Compatibility 4.1.0 (engineeredcompatibility)
+		Engineers Delight 1.5.0 (tmted)
+		Entity Model Features 2.4.1 (entity_model_features)
+		Entity Texture Features 6.2.9 (entity_texture_features)
+		EntityCulling 1.7.4 (entityculling)
+		ExpandAbility 12.0.0 (expandability)
+		Explorer's Compass 1.21.1-3.0.3-neoforge (explorerscompass)
+		Extreme Sound Muffler 3.49 (extremesoundmuffler)
+		Farmer's Cutting: The Aether 1.21.1-1.0-neoforge (mr_farmers_cuttingtheaether)
+		Farmer's Delight 1.2.7 (farmersdelight)
+		FarmersStructures 1.0.0 (farmers_structures)
+		Fast IP Ping 1.0.5 (fastipping)
+		Fast Suite 6.0.2 (fastsuite)
+		fastasyncworldsave mod 2.4 (fastasyncworldsave)
+		FastLeafDecay 35 (fastleafdecay)
+		Ferrite Core 7.0.2 (ferritecore)
+		Flywheel 1.0.2 (flywheel)
+		Forgified Fabric API 0.107.0+2.0.26+1.21.1 (fabric_api)
+		Forgified Fabric API Base 0.4.42+d1308dedd1 (fabric_api_base)
+		Forgified Fabric API Lookup API (v1) 1.6.69+c21168c319 (fabric_api_lookup_api_v1)
+		Forgified Fabric Biome API (v1) 13.0.30+1e62d33c19 (fabric_biome_api_v1)
+		Forgified Fabric Block API (v1) 1.0.22+a6e994cd19 (fabric_block_api_v1)
+		Forgified Fabric BlockRenderLayer Registration (v1) 1.1.52+b089b4bd19 (fabric_blockrenderlayer_v1)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Client Tags 1.1.15+e053909619 (fabric_client_tags_api_v1)
+		Forgified Fabric Command API (v2) 2.2.28+36d727be19 (fabric_command_api_v2)
+		Forgified Fabric Content Registries (v0) 8.0.17+0a0c14ff19 (fabric_content_registries_v0)
+		Forgified Fabric Convention Tags 2.1.1+7f945d5b19 (fabric_convention_tags_v1)
+		Forgified Fabric Convention Tags (v2) 2.9.1+231468e519 (fabric_convention_tags_v2)
+		Forgified Fabric Data Attachment API (v1) 1.2.0+7330bc1b19 (fabric_data_attachment_api_v1)
+		Forgified Fabric Data Generation API (v1) 20.2.22+2d91a6db19 (fabric_data_generation_api_v1)
+		Forgified Fabric Entity Events (v1) 1.7.0+1af6e62419 (fabric_entity_events_v1)
+		Forgified Fabric Events Interaction (v0) 0.7.13+7b71cc1619 (fabric_events_interaction_v0)
+		Forgified Fabric Game Rule API (v1) 1.0.53+36d727be19 (fabric_game_rule_api_v1)
+		Forgified Fabric Game Test API (v1) 2.0.5+29f188ce19 (fabric_gametest_api_v1)
+		Forgified Fabric Item API (v1) 11.1.1+57cdfa8219 (fabric_item_api_v1)
+		Forgified Fabric Item Group API (v1) 4.1.6+e324903319 (fabric_item_group_api_v1)
+		Forgified Fabric Key Binding API (v1) 1.0.47+62cc7ce119 (fabric_key_binding_api_v1)
+		Forgified Fabric Lifecycle Events (v1) 2.4.0+36b6b86a19 (fabric_lifecycle_events_v1)
+		Forgified Fabric Loot API (v2) 3.0.15+a3ee712d19 (fabric_loot_api_v2)
+		Forgified Fabric Loot API (v3) 1.0.3+333dfad919 (fabric_loot_api_v3)
+		Forgified Fabric Message API (v1) 6.0.13+e053909619 (fabric_message_api_v1)
+		Forgified Fabric Model Loading API (v1) 2.0.0+986ae77219 (fabric_model_loading_api_v1)
+		Forgified Fabric Networking API (v1) 4.3.0+4f690eb619 (fabric_networking_api_v1)
+		Forgified Fabric Object Builder API (v1) 15.2.1+cc242efd19 (fabric_object_builder_api_v1)
+		Forgified Fabric Particles (v1) 4.0.2+824f924c19 (fabric_particles_v1)
+		Forgified Fabric Recipe API (v1) 5.0.13+59440bcc19 (fabric_recipe_api_v1)
+		Forgified Fabric Registry Sync (v0) 5.1.3+0c9b5b5419 (fabric_registry_sync_v0)
+		Forgified Fabric Renderer - Indigo 1.7.0+4198af7119 (fabric_renderer_indigo)
+		Forgified Fabric Renderer API (v1) 3.4.0+acb05a3919 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering (v1) 5.0.5+077ba95f19 (fabric_rendering_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Forgified Fabric Rendering Fluids (v1) 3.1.6+857185bc19 (fabric_rendering_fluids_v1)
+		Forgified Fabric Resource Conditions API (v1) 4.3.0+5bdd099819 (fabric_resource_conditions_api_v1)
+		Forgified Fabric Resource Loader (v0) 1.3.1+4ea8954419 (fabric_resource_loader_v0)
+		Forgified Fabric Screen API (v1) 2.0.25+4228281319 (fabric_screen_api_v1)
+		Forgified Fabric Screen Handler API (v1) 1.3.87+8dbc56dd19 (fabric_screen_handler_api_v1)
+		Forgified Fabric Sound API (v1) 1.0.23+10b84f8419 (fabric_sound_api_v1)
+		Forgified Fabric Transfer API (v1) 5.4.1+628bf5e919 (fabric_transfer_api_v1)
+		Forgified Fabric Transitive Access Wideners (v1) 6.1.0+0df3143b19 (fabric_transitive_access_wideners_v1)
+		FramedBlocks 10.3.1 (framedblocks)
+		Framework 0.9.4 (framework)
+		FTB Backups 2 1.0.28 (ftbbackups2)
+		FTB Chunks 2101.1.8 (ftbchunks)
+		FTB Essentials 2101.1.6 (ftbessentials)
+		FTB Filter System 21.1.0 (ftbfiltersystem)
+		FTB Jei Extras 21.1.5 (ftbjeiextras)
+		FTB Library 2101.1.12 (ftblibrary)
+		FTB Pack Companion 21.1.1+mc1.21.1 (ftbpc)
+		FTB Quests 2101.1.9 (ftbquests)
+		FTB Ranks 2101.1.3 (ftbranks)
+		FTB Teams 2101.1.2 (ftbteams)
+		FTB Ultimine 2101.1.1 (ftbultimine)
+		FTB XMod Compat 21.1.3 (ftbxmodcompat)
+		Fusion 1.2.7 (fusion)
+		GeckoLib 4 4.7.5.1 (geckolib)
+		Gpu memory leak fix 1.8 (gpumemleakfix)
+		Grand Power 3.0.2 (grandpower)
+		Gravestone Curios Compatibility 2.1.0 (gravestonecurioscompat)
+		Gravestone Mod 1.21.1-1.0.24 (gravestone)
+		Greenhouse Config 1.0.0+1.21.1 (greenhouseconfig)
+		Greenhouse Config - Night Config 1.0.0 (greenhouseconfig_night_config)
+		Greenhouse Config - TOML 1.0.0 (greenhouseconfig_toml)
+		GuideME 21.1.8 (guideme)
+		Handcrafted 4.0.3 (handcrafted)
+		Harvest with ease 9.4.0 (harvest_with_ease)
+		Highlighter 1.1.11 (highlighter)
+		Iceberg 1.3.2 (iceberg)
+		Immersive Aircraft 1.2.2+1.21.1 (immersive_aircraft)
+		Immersive Engineering 12.1.1-186 (immersiveengineering)
+		Iris 1.8.8+mc1.21.1 (iris)
+		Item Collectors 1.1.10 (itemcollectors)
+		Item Interactions 21.1.3 (iteminteractions)
+		Jade 15.10.0+neoforge (jade)
+		Jade Addons 6.1.0+neoforge (jadeaddons)
+		JRFTL 1.8.0 (jrftl)
+		Just Enough Immersive Multiblocks 1.0.4 (jeimultiblocks)
+		Just Enough Items 19.21.0.247 (jei)
+		Just Enough Professions (JEP) 4.0.4 (justenoughprofessions)
+		Just Enough Resources 1.6.0.13 (jeresources)
+		Just Hammers 21.1.0 (justhammers)
+		Just Player Heads 4.2 (justplayerheads)
+		Konkrete 1.9.9 (konkrete)
+		KumaAPI 21.0.5 (kuma_api)
+		L2Core 3.0.8+1 (l2core)
+		L_Ender 's Delight 1.0.6-1.21.1 (lendersdelight)
+		L_Ender's Cataclysm 2.65-1.21.1 (cataclysm)
+		lionfishapi 2.6 (lionfishapi)
+		Lithium 0.15.0+mc1.21.1 (lithium)
+		Lithostitched 1.4.2 (lithostitched)
+		LittleTiles 1.6.0-pre161 (littletiles)
+		Logprot 3.5 (logprot)
+		lootintegration_townsandtowers mod 1 (lootintegration_townsandtowers)
+		Lootintegrations mod 4.3 (lootintegrations)
+		lootintegrations_cataclysm mod 1 (lootintegrations_cataclysm)
+		Lootr 1.21-1.10.35.91 (lootr)
+		M.R.U 1.0.16+1.21.1+neoforge (mru)
+		Macaw's Bridges 3.0.0 (mcwbridges)
+		Macaw's Doors 1.1.2 (mcwdoors)
+		Macaw's Fences and Walls 1.2.0 (mcwfences)
+		Macaw's Furniture 3.3.0 (mcwfurnitures)
+		Macaw's Lights and Lamps 1.1.1 (mcwlights)
+		Macaw's Paintings 1.0.5 (mcwpaintings)
+		Macaw's Paths and Pavings 1.1.0 (mcwpaths)
+		Macaw's Stairs and Balconies 1.0.1 (mcwstairs)
+		Macaw's Trapdoors 1.1.4 (mcwtrpdoors)
+		Macaw's Windows 2.3.2 (mcwwindows)
+		Magnum Torch 21.1.0 (magnumtorch)
+		Man of Many Planes 0.2.1+1.21.1 (man_of_many_planes)
+		Mechanicals Lib 0.4.7 (mechanicals)
+		Mekanism 10.7.13 (mekanism)
+		Mekanism: Additions 10.7.13 (mekanismadditions)
+		Mekanism: Generators 10.7.13 (mekanismgenerators)
+		Mekanism: Tools 10.7.13 (mekanismtools)
+		Minecraft 1.21.1 (minecraft)
+		Mob Lassos 21.1.0 (moblassos)
+		Moonlight Lib 1.21-2.18.9 (moonlight)
+		More Dragon Eggs 5.0 (moredragoneggs)
+		Mouse Tweaks 2.26.1 (mousetweaks)
+		Mystical Agradditions 8.0.5 (mysticalagradditions)
+		Mystical Agriculture 8.0.14 (mysticalagriculture)
+		Mystical Agriculture Tiered Crystals 1.7.1 (matc)
+		Nature's Compass 1.21.1-3.0.2-neoforge (naturescompass)
+		NeoForge 21.1.160 (neoforge)
+		NetherPortalFix 21.1.1 (netherportalfix)
+		Nitrogen 1.1.23 (nitrogen_internals)
+		No Chat Reports 1.21.1-v2.9.1 (nochatreports)
+		No Trample 1.21.1-1.0.1 (notrample)
+		Nuggets 1.0.5 (nuggets)
+		Ocean's Delight 1.0.3 (oceansdelight)
+		Oritech 0.14.5 (oritech)
+		oωo 0.12.15.1-beta.3+1.21 (owo)
+		Packet Fixer 2.1.0 (packetfixer)
+		ParticleStorm 1.0.4 (particlestorm)
+		Patchouli 1.21-88-NEOFORGE (patchouli)
+		Pick Up Notifier 21.1.1 (pickupnotifier)
+		Placebo 9.8.1 (placebo)
+		Plushie Mod 1.5.1 (plushies)
+		PolyLib 2100.0.3-build.172 (polylib)
+		Polymorph 1.0.9+1.21.1 (polymorph)
+		Ponder 1.0.0 (ponder)
+		PrickleMC 21.1.6 (prickle)
+		Prism 1.0.11 (prism)
+		Protect Your Moa 1.0.0 (aether_protect_your_moa)
+		Puzzles Lib 21.1.33 (puzzleslib)
+		Ranged Pumps 1.3.0 (rangedpumps)
+		Rechiseled 1.1.6+a (rechiseled)
+		Rechiseled: Chipped 1.3 (rechiseled_chipped)
+		recipeessentials mod 4.0 (recipeessentials)
+		Reese's Sodium Options 1.8.3+mc1.21.4 (reeses_sodium_options)
+		Resource Pack Overrides 21.1.0 (resourcepackoverrides)
+		Resourceful Lib 3.0.12 (resourcefullib)
+		Scarecrows' Territory 1.1.11+a (scarecrowsterritory)
+		Searchables 1.0.2 (searchables)
+		Server Country Flags 1.10.4 (servercountryflags)
+		Simple Magnets 1.1.12+c (simplemagnets)
+		Smoothchunk mod 4.1 (smoothchunk)
+		Sophisticated Backpacks 3.24.9 (sophisticatedbackpacks)
+		Sophisticated Backpacks Create Integration 0.1.1 (sophisticatedbackpackscreateintegration)
+		Sophisticated Core 1.3.29 (sophisticatedcore)
+		Sophisticated Storage 1.4.23 (sophisticatedstorage)
+		Sophisticated Storage Create Integration 0.1.8 (sophisticatedstoragecreateintegration)
+		Sophisticated Storage In Motion 0.10.10 (sophisticatedstorageinmotion)
+		SpectreLib 0.17.2+1.21 (spectrelib)
+		Spiky Spikes 21.1.0 (spikyspikes)
+		Stack Refill 4.6 (stackrefill)
+		Storage Delight 25.03.09-1.21-neoforge (storagedelight)
+		Structure Essentials mod 4.7 (structureessentials)
+		SuperMartijn642's Config Library 1.1.8 (supermartijn642configlib)
+		SuperMartijn642's Core Lib 1.1.18+a (supermartijn642corelib)
+		Supplementaries 1.21-3.1.7 (supplementaries)
+		Supplementaries Squared 1.21-1.2.8 (suppsquared)
+		Tectonic 2.4.3 (tectonic)
+		TerraCurio 1.0.9 (terra_curio)
+		Terralith 2.5.8 (terralith)
+		Tesseract 1.0.37 (tesseract)
+		The Aether 1.5.8 (aether)
+		The Twilight Forest 4.7.3094 (twilightforest)
+		TipTheScales 16.0.0.1 (tipthescales)
+		Titanium 4.0.37 (titanium)
+		Towns and Towers 1.13.2 (t_and_t)
+		Trading Post 21.1.0 (tradingpost)
+		Trash Cans 1.0.18+c (trashcans)
+		Treasure Reforging 1.0.1 (aether_treasure_reforging)
+		Twilight Flavors & Delight 3.0.2 (twilightdelight)
+		Universal Bone Meal 21.1.0 (universalbonemeal)
+		Visuality: Reforged 2.0.5 (visuality)
+		Waystones 21.1.17 (waystones)
+		WI Zoom 1.6-MC1.21.1-NeoForge (wi_zoom)
+		YetAnotherConfigLib 3.6.6+1.21.1-neoforge (yet_another_config_lib_v3)
+[21Apr2025 17:27:38.467] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Apr2025 17:27:38.485] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[21Apr2025 17:27:38.696] [main/INFO] [net.fabricmc.loader.impl.bootstrap.FabricLoaderBootstrap/]: Propagating FML mod list to Fabric Loader
+[21Apr2025 17:27:38.725] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[21Apr2025 17:27:38.828] [main/WARN] [mixin/]: Reference map 'autochefsdelight.refmap.json' for autochefsdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.840] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.841] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.841] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.841] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.841] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.844] [main/WARN] [mixin/]: Reference map 'terra_curio.refmap.json' for terra_curio.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.845] [main/WARN] [mixin/]: Reference map 'clickadv.refmap.json' for clickadv.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.846] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.846] [main/WARN] [mixin/]: Reference map 'prickle.refmap.json' for prickle.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.852] [main/WARN] [mixin/]: Reference map '' for chat_heads.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.856] [main/WARN] [mixin/]: Reference map '' for chat_heads.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.864] [main/WARN] [mixin/]: Reference map 'emojiful.refmap.json' for emojiful.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.867] [main/WARN] [mixin/]: Reference map 'tipthescales.refmap.json' for tipthescales.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.868] [main/WARN] [mixin/]: Reference map 'bcc.refmap.json' for bcc.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.871] [main/WARN] [mixin/]: Reference map 'supermartijn642corelib.mixins.refmap.json' for supermartijn642corelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.871] [main/WARN] [mixin/]: Reference map 'reeses-sodium-options.refmap.json' for reeses-sodium-options.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.872] [main/WARN] [mixin/]: Reference map '${mod_id}.refmap.json' for trading_floor.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.872] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.873] [main/WARN] [mixin/]: Reference map 'searchables.refmap.json' for searchables.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.877] [main/WARN] [mixin/]: Reference map '' for accessories-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.882] [main/WARN] [mixin/]: Reference map '' for accessories-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.883] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.884] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.884] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.884] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.885] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.886] [main/WARN] [mixin/]: Reference map 'jadeaddons.refmap.json' for jadeaddons.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.888] [main/WARN] [mixin/]: Reference map 'elytraslot.refmap.json' for elytraslot-integrations.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.890] [main/WARN] [mixin/]: Reference map 'lithostitched.refmap.json' for lithostitched.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.965] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[21Apr2025 17:27:38.965] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[21Apr2025 17:27:38.965] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[21Apr2025 17:27:38.965] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[21Apr2025 17:27:38.966] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 146 options available, 2 override(s) found
+[21Apr2025 17:27:38.972] [main/WARN] [mixin/]: Reference map 'attributefix.refmap.json' for attributefix.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.978] [main/WARN] [mixin/]: Reference map 'fastasyncworldsave.refmap.json' for fastasyncworldsave.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.983] [main/WARN] [mixin/]: Reference map 'crafttweaker.refmap.json' for crafttweaker.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.984] [main/WARN] [mixin/]: Reference map 'crafttweaker.refmap.json' for crafttweaker.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.986] [main/WARN] [mixin/]: Reference map 'tectonic.refmap.json' for tectonic.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.986] [main/WARN] [mixin/]: Reference map 'tectonic.refmap.json' for tectonic.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.987] [main/WARN] [mixin/]: Reference map 'smoothchunk.refmap.json' for smoothchunk.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.988] [main/WARN] [mixin/]: Reference map 'logprot.refmap.json' for logprot.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.990] [main/WARN] [mixin/]: Reference map 'nochatreports.refmap.json' for mixins/common/nochatreports.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.991] [main/WARN] [mixin/]: Reference map 'particlestorm.refmap.json' for particlestorm.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:38.994] [main/WARN] [mixin/]: Reference map '' for brewinandchewin.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.004] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.006] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.008] [main/WARN] [mixin/]: Reference map 'polymorph.refmap.json' for polymorph-compatibility.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.011] [main/WARN] [mixin/]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.020] [main/WARN] [mixin/]: Reference map 'extremesoundmuffler.refmap.json' for extremesoundmuffler.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.021] [main/WARN] [mixin/]: Reference map 'chunksending.refmap.json' for chunksending.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.023] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.024] [main/WARN] [mixin/]: Reference map 'netherportalfix.refmap.json' for netherportalfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.025] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.123] [main/WARN] [mixin/]: Reference map 'ars_nouveau.refmap.json' for ars_nouveau.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.124] [main/WARN] [mixin/]: Reference map 'ars_technica.refmap.json' for ars_technica.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.126] [main/WARN] [mixin/]: Reference map 'recipeessentials.refmap.json' for recipeessentials.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.127] [main/WARN] [mixin/]: Reference map 'aether.refmap.json' for aether.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.128] [main/WARN] [mixin/]: Reference map 'connectivity.refmap.json' for connectivity.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.128] [main/WARN] [mixin/]: Reference map 'gpumemleakfix.refmap.json' for gpumemleakfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.131] [main/WARN] [mixin/]: Reference map 'structureessentials.refmap.json' for structureessentials.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.132] [main/WARN] [mixin/]: Reference map 'controlling.refmap.json' for controlling.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.133] [main/WARN] [mixin/]: Reference map 'controlling.refmap.json' for controlling.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.133] [main/WARN] [mixin/]: Reference map 'placebo.refmap.json' for placebo.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.134] [main/WARN] [mixin/]: Reference map 'lootintegrations.refmap.json' for lootintegrations.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.135] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.135] [main/WARN] [mixin/]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.136] [main/WARN] [mixin/]: Reference map 'bookshelf.refmap.json' for bookshelf.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.137] [main/WARN] [mixin/]: Reference map 'nuggets.refmap.json' for nuggets.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.140] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.140] [main/WARN] [mixin/]: Reference map 'konkrete.refmap.json' for konkrete.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.141] [main/WARN] [mixin/]: Reference map 'rechiseled_chipped.refmap.json' for rechiseled_chipped.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.145] [main/WARN] [mixin/]: Reference map 'lionfishapi.refmap.json' for lionfishapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.145] [main/WARN] [mixin/]: Reference map 'servercountryflags.refmap.json' for servercountryflags.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.146] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.146] [main/WARN] [mixin/]: Reference map 'patchouli.refmap.json' for patchouli_xplat.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.148] [main/WARN] [mixin/]: Reference map 'aether_protect_your_moa.refmap.json' for aether_protect_your_moa.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.152] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.153] [main/WARN] [mixin/]: Reference map 'cherishedworlds.refmap.json' for cherishedworlds.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.156] [main/WARN] [mixin/]: Reference map 'cucumber.refmap.json' for cucumber.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.161] [main/WARN] [mixin/]: Reference map 'create.refmap.json' for create.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.165] [main/WARN] [mixin/]: Reference map 'create_dragons_plus.refmap.json' for create_dragons_plus.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.165] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.166] [main/WARN] [mixin/]: Reference map 'fastsuite.refmap.json' for fastsuite.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.167] [main/WARN] [mixin/]: Reference map 'create_d2d.refmap.json' for create_d2d.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.170] [main/WARN] [mixin/]: Reference map 'create_better_villagers.refmap.json' for create_better_villagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.173] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.173] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.177] [main/WARN] [mixin/]: Reference map 'ars_elemental.refmap.json' for ars_elemental.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.177] [main/WARN] [mixin/]: Reference map 'betterchunkloading.refmap.json' for betterchunkloading.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.202] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.predicates.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.203] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.fastmap.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.204] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.mrl.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.205] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupmultipart.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.205] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.blockstatecache.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.206] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupbakedquad.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.206] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.threaddetec.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.207] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.modelsides.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.208] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.accessors.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.208] [main/WARN] [mixin/]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.208] [main/WARN] [mixin/]: Reference map 'moredragoneggs.refmap.json' for moredragoneggs.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.210] [main/WARN] [mixin/]: Reference map 'notrample.refmap.json' for notrample.mixin.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.210] [main/WARN] [mixin/]: Reference map 'charmofundying.refmap.json' for charmofundying.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.235] [main/WARN] [mixin/]: Reference map 'create_enchantment_industry.refmap.json' for create_enchantment_industry.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.236] [main/WARN] [mixin/]: Reference map 'littletiles.mixins.refmap.json' for littletiles.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Apr2025 17:27:39.454] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.455] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found terra_curio.mixins.json:LivingEntityMixin from mod terra_curio
+[21Apr2025 17:27:39.481] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.481] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found terra_curio.mixins.json:accessor.LivingEntityAccessor from mod terra_curio
+[21Apr2025 17:27:39.513] [main/WARN] [mixin/]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/DefaultFluidRenderer (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.DefaultFluidRenderer)
+[21Apr2025 17:27:39.526] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.526] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found supplementaries.mixins.json:LivingEntityMixin from mod supplementaries
+[21Apr2025 17:27:39.595] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.595] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found supplementaries-common.mixins.json:LivingEntityAccessor from mod supplementaries
+[21Apr2025 17:27:39.603] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.603] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found supplementaries-common.mixins.json:LivingEntityMixin from mod supplementaries
+[21Apr2025 17:27:39.635] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Options for invalid dist DEDICATED_SERVER
+[21Apr2025 17:27:39.636] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Options (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Options for invalid dist DEDICATED_SERVER)
+[21Apr2025 17:27:39.636] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Options was not found tipthescales.mixins.json:AccessOptions from mod tipthescales
+[21Apr2025 17:27:39.668] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.668] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found fabric-entity-events-v1.mixins.json:LivingEntityMixin from mod fabric_entity_events_v1
+[21Apr2025 17:27:39.680] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.680] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found fabric-entity-events-v1.mixins.json:elytra.LivingEntityMixin from mod fabric_entity_events_v1
+[21Apr2025 17:27:39.705] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.705] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found accessories-common.mixins.json:LivingEntityAccessor from mod accessories
+[21Apr2025 17:27:39.714] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.714] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found accessories-common.mixins.json:LivingEntityMixin from mod accessories
+[21Apr2025 17:27:39.749] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/LivingEntity (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:39.749] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.LivingEntity was not found curios.neoforge.mixins.json:MixinLivingEntity from mod curios
+[21Apr2025 17:27:39.816] [main/INFO] [Lithium/]: Force-disabling mixin 'entity.collisions.intersection.EntityGetterMixin' as rule 'mixin.entity.collisions' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.816] [main/INFO] [Lithium/]: Force-disabling mixin 'entity.collisions.intersection.LevelMixin' as rule 'mixin.entity.collisions' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.817] [main/INFO] [Lithium/]: Force-disabling mixin 'entity.collisions.movement.EntityMixin' as rule 'mixin.entity.collisions' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.817] [main/INFO] [Lithium/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityMixin' as rule 'mixin.entity.collisions' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.817] [main/INFO] [Lithium/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntitySectionMixin' as rule 'mixin.entity.collisions' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.817] [main/INFO] [Lithium/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntitySelectorMixin' as rule 'mixin.entity.collisions' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.818] [main/INFO] [Lithium/]: Force-disabling mixin 'entity.collisions.unpushable_cramming.LivingEntityMixin' as rule 'mixin.entity.collisions' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.827] [main/INFO] [Lithium/]: Force-disabling mixin 'shapes.specialized_shapes.ShapesMixin' as rule 'mixin.shapes.specialized_shapes' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:39.827] [main/INFO] [Lithium/]: Force-disabling mixin 'shapes.specialized_shapes.VoxelShapeMixin' as rule 'mixin.shapes.specialized_shapes' (added by mods [littletiles]) disables it and children
+[21Apr2025 17:27:40.067] [main/WARN] [com.recipeessentials.RecipeEssentials/]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[21Apr2025 17:27:40.071] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: recipeessentials.json
+[21Apr2025 17:27:40.072] [main/WARN] [com.recipeessentials.RecipeEssentials/]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[21Apr2025 17:27:40.072] [main/WARN] [com.recipeessentials.RecipeEssentials/]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[21Apr2025 17:27:40.073] [main/WARN] [com.recipeessentials.RecipeEssentials/]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[21Apr2025 17:27:40.073] [main/WARN] [com.recipeessentials.RecipeEssentials/]: Disabling fastItemComparison feature, due to the Owo mod's faulty implementation breaking it
+[21Apr2025 17:27:40.106] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[21Apr2025 17:27:40.140] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/KeyMapping for invalid dist DEDICATED_SERVER
+[21Apr2025 17:27:40.141] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/KeyMapping (java.lang.RuntimeException: Attempted to load class net/minecraft/client/KeyMapping for invalid dist DEDICATED_SERVER)
+[21Apr2025 17:27:40.141] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.KeyMapping was not found nuggets.mixins.json:KeyMappingAccessor from mod nuggets
+[21Apr2025 17:27:40.143] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[21Apr2025 17:27:40.144] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[21Apr2025 17:27:40.144] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found nuggets.mixins.json:ScreenAccessor from mod nuggets
+[21Apr2025 17:27:40.163] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/npc/Villager (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.163] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.npc.Villager was not found fabric-content-registries-v0.mixins.json:VillagerEntityAccessor from mod fabric_content_registries_v0
+[21Apr2025 17:27:40.175] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
+[21Apr2025 17:27:40.175] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin from mod fastipping
+[21Apr2025 17:27:40.228] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/npc/Villager (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.228] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.npc.Villager was not found tradingpost.common.mixins.json:accessor.VillagerAccessor from mod tradingpost
+[21Apr2025 17:27:40.238] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/vertex/BufferBuilder (java.lang.ClassNotFoundException: com.mojang.blaze3d.vertex.BufferBuilder)
+[21Apr2025 17:27:40.238] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.vertex.BufferBuilder was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[21Apr2025 17:27:40.241] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[21Apr2025 17:27:40.242] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[21Apr2025 17:27:40.242] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found owo.mixins.json:ScreenAccessor from mod owo
+[21Apr2025 17:27:40.292] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/npc/Villager (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.292] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.npc.Villager was not found mixins.artifacts.common.json:attribute.villagerreputation.VillagerMixin from mod artifacts
+[21Apr2025 17:27:40.316] [main/WARN] [mixin/]: Error loading class: net/minecraft/world/entity/npc/Villager (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.317] [main/WARN] [mixin/]: @Mixin target net.minecraft.world.entity.npc.Villager was not found moonlight-common.mixins.json:VillagerMixin from mod moonlight
+[21Apr2025 17:27:40.380] [main/WARN] [mixin/]: Error loading class: journeymap/client/render/map/MapRenderer (java.lang.ClassNotFoundException: journeymap.client.render.map.MapRenderer)
+[21Apr2025 17:27:40.380] [main/WARN] [mixin/]: @Mixin target journeymap.client.render.map.MapRenderer was not found create.mixins.json:compat.journeymap.MapRendererAccessor from mod create
+[21Apr2025 17:27:40.405] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.405] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.406] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.408] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.411] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.413] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.414] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.415] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.416] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.416] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.417] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.420] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.423] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.425] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.426] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.426] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.467] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.470] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.480] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.486] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.488] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.491] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.492] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.494] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.501] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.502] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.505] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.506] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.506] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.507] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.507] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.510] [main/ERROR] [mixin/]: fabric-entity-events-v1.mixins.json:ServerPlayerEntityMixin from mod fabric_entity_events_v1: Super class 'net.fabricmc.fabric.mixin.entity.event.LivingEntityMixin' of ServerPlayerEntityMixin was not found in the hierarchy of target class 'net/minecraft/server/level/ServerPlayer'
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super class 'net.fabricmc.fabric.mixin.entity.event.LivingEntityMixin' of ServerPlayerEntityMixin was not found in the hierarchy of target class 'net/minecraft/server/level/ServerPlayer'
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:593) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:884) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:568) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) [sponge-mixin-0.15.2+mixin.0.8.7.jar%2375!/:0.15.2+mixin.0.8.7]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) [modlauncher-11.0.4.jar%2362!/:11.0.4+main.d2e20e43]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57) [modlauncher-11.0.4.jar%2362!/:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190) [securejarhandler-3.0.8.jar:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298) [securejarhandler-3.0.8.jar:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311) [securejarhandler-3.0.8.jar:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298) [securejarhandler-3.0.8.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:602) [?:?]
+	at java.base/java.lang.Class.forName(Class.java:595) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.38/net.neoforged.fml.loading.ImmediateWindowHandler$DummyProvider.lambda$updateModuleReads$1(ImmediateWindowHandler.java:173) [loader-4.0.38.jar%2360!/:4.0]
+	at java.base/java.util.Optional.map(Optional.java:260) [?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.38/net.neoforged.fml.loading.ImmediateWindowHandler$DummyProvider.updateModuleReads(ImmediateWindowHandler.java:173) [loader-4.0.38.jar%2360!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.38/net.neoforged.fml.loading.ImmediateWindowHandler.acceptGameLayer(ImmediateWindowHandler.java:94) [loader-4.0.38.jar%2360!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.38/net.neoforged.fml.loading.FMLLoader.beforeStart(FMLLoader.java:160) [loader-4.0.38.jar%2360!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.38/net.neoforged.fml.loading.targets.CommonLaunchHandler.launchService(CommonLaunchHandler.java:115) [loader-4.0.38.jar%2360!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.run(Launcher.java:103) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.Launcher.main(Launcher.java:74) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-11.0.4.jar%2362!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-11.0.4.jar%2362!/:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.run(BootstrapLauncher.java:210) [bootstraplauncher-2.0.2.jar:?]
+	at cpw.mods.bootstraplauncher@2.0.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:69) [bootstraplauncher-2.0.2.jar:?]
+[21Apr2025 17:27:40.517] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.518] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.520] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.521] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.522] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.527] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.531] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.532] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.532] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.533] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.535] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.536] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.537] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.538] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.541] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.542] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.546] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.551] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.553] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.555] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.556] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.557] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.561] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.562] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.563] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.564] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.565] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.566] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.567] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.568] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.570] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.572] [main/WARN] [mixin/]: Error loading class: java/util/AbstractCollection (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.573] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.576] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.578] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.581] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.582] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.583] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.584] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.585] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.586] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.586] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.592] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.594] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.595] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.597] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.598] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.600] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.601] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.602] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.603] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.606] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.609] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.610] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.611] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.612] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.615] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.616] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.620] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.622] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.623] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.624] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.626] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.627] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.628] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.631] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.633] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.634] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.635] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.636] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.638] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.641] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.643] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.644] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.645] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.646] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.646] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.647] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.648] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.648] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.650] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.651] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.652] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.654] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.654] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.655] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.656] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.657] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.658] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.658] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.660] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.661] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.661] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.663] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.664] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.666] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.667] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.667] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.668] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.670] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.671] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.672] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.673] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.674] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.676] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.677] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.678] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.679] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.681] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.682] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.683] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.685] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.687] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.688] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.688] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.690] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.691] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.692] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.694] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.695] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.697] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.697] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.698] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.698] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.701] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.703] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.705] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.707] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.708] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.710] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.711] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.712] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.713] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.714] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.716] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.716] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.718] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.720] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.721] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.722] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.723] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.724] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.725] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.726] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.730] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.732] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.733] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.735] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.736] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.737] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.738] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.741] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.743] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.744] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.745] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.746] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.748] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.750] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.751] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.753] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.755] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.756] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.756] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.757] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.760] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.761] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.763] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.764] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.765] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.766] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.768] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.771] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 68)
+[21Apr2025 17:27:40.895] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21Apr2025 17:27:41.092] [main/WARN] [mixin/]: Error loading class: java/lang/String (java.lang.IllegalArgumentException: Unsupported class file major version 68)

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9eb7c2bf1bfc459fa62ebde010cf9c44"
+	name: "Shonix#9eb7c2bf"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
