@@ -73,9 +73,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "oritech": {
-    "machine_core_controller": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -145,5 +142,11 @@
     "infused_farmland": true,
     "crop": true,
     "inferium_crop": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }

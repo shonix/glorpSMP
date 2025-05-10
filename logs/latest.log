@@ -1,0 +1,144 @@
+[10May2025 00:00:00.008] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[10May2025 00:00:00.012] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at D:\Spil\mineserv\GlorpSMP.1.2.3\.\world\.
+[10May2025 00:00:00.177] [ftbbackups2_Worker-1/ERROR] [net.creeperhost.ftbbackups.FTBBackups/]: Current world size: 14.1MB Current Available space: 591.1GB
+[10May2025 00:00:00.178] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[10May2025 00:00:00.178] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[10May2025 00:00:00.179] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world twilightforest:twilight_forest save state to true
+[10May2025 00:00:00.179] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[10May2025 00:00:00.179] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[10May2025 00:00:00.181] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file D:\Spil\mineserv\GlorpSMP.1.2.3\backups\backups.json
+[10May2025 00:00:00.185] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[10May2025 00:00:00.975] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.21.1, Data version 3955
+[10May2025 00:00:00.975] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[10May2025 00:00:01.808] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: D:\Spil\mineserv\GlorpSMP.1.2.3\.\world\.\DIM-1
+[10May2025 00:00:01.808] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: D:\Spil\mineserv\GlorpSMP.1.2.3\.\world\.\DIM1
+[10May2025 00:00:01.809] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[10May2025 00:00:01.809] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_faucet_test_level
+[10May2025 00:00:01.810] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_projectile_test_level
+[10May2025 00:00:01.810] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder twilightforest:twilight_forest
+[10May2025 00:00:03.448] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 954ms, Capture took 1550ms
+[10May2025 00:00:03.938] [FTB Backups backup thread 0/ERROR] [net.creeperhost.ftbbackups.FTBBackups/]: Failed to create backup
+java.nio.file.NoSuchFileException: D:\Spil\mineserv\GlorpSMP.1.2.3\.\world\.\DIM-1\data\tmp_goblintraders_vein_goblin_trader_spawner.dat
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.base/java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3192) ~[?:?]
+	at TRANSFORMER/ftbbackups2@1.0.28/net.creeperhost.ftbbackups.utils.FileUtils.packIntoZip(FileUtils.java:90) ~[ftbbackups2-neoforge-1.21-1.0.28.jar%23473!/:?]
+	at TRANSFORMER/ftbbackups2@1.0.28/net.creeperhost.ftbbackups.utils.FileUtils.zip(FileUtils.java:71) ~[ftbbackups2-neoforge-1.21-1.0.28.jar%23473!/:?]
+	at TRANSFORMER/ftbbackups2@1.0.28/net.creeperhost.ftbbackups.BackupHandler.lambda$createBackup$1(BackupHandler.java:313) ~[ftbbackups2-neoforge-1.21-1.0.28.jar%23473!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[10May2025 00:00:03.939] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[10May2025 00:00:03.939] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[10May2025 00:00:03.939] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world twilightforest:twilight_forest save state to false
+[10May2025 00:00:03.939] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[10May2025 00:00:03.939] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[10May2025 00:04:06.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ung_Balle has made the advancement [Configure Everything]
+[10May2025 00:23:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shonix has made the advancement [Stone Age]
+[10May2025 00:23:50.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shonix was incinerated.
+[10May2025 00:23:50.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shonix has made the advancement [Mmmmmm, Crispy!]
+[10May2025 00:24:12.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ung_Balle was incinerated.
+[10May2025 00:24:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ung_Balle has made the advancement [Mmmmmm, Crispy!]
+[10May2025 00:24:14.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ung_Balle moved too quickly! 3.9786927808514543,-2.0,93.54456584184257
+[10May2025 00:24:38.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shonix was incinerated whilst trying to escape Ung_Balle.
+[10May2025 00:24:39.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shonix moved too quickly! 39.33691326749893,-1.9375,96.6686206071207
+[10May2025 00:24:39.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shonix moved too quickly! 39.33691326749893,-1.9375,96.6686206071207
+[10May2025 00:24:39.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shonix moved too quickly! 39.33691326749893,-1.9375,96.6686206071207
+[10May2025 00:24:39.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shonix moved too quickly! 39.33691326749893,-1.9375,96.6686206071207
+[10May2025 00:24:39.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ung_Balle has made the advancement [Archmage Spell Book]
+[10May2025 00:24:41.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shonix moved too quickly! -39.0,1.0999999999999943,-97.0
+[10May2025 00:24:41.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shonix moved too quickly! -39.0,1.0999999999999943,-97.0
+[10May2025 00:27:03.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shonix lost connection: Disconnected
+[10May2025 00:27:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shonix left the game
+[10May2025 00:27:05.978] [Server thread/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
+[10May2025 00:27:05.979] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
+	at TRANSFORMER/createenderlink@1.3.0/io.github.cotrin8672.cel.content.SharedStorageBehaviour.<clinit>(SharedStorageBehaviour.kt:47) ~[createenderlink-1.3.0+mc1.21.1-neoforge.jar%23428!/:?]
+	at TRANSFORMER/createenderlink@1.3.0/io.github.cotrin8672.cel.content.block.vault.EnderVaultBlockEntity.addBehaviours(EnderVaultBlockEntity.kt:55) ~[createenderlink-1.3.0+mc1.21.1-neoforge.jar%23428!/:?]
+	at TRANSFORMER/create@6.0.4/com.simibubi.create.foundation.blockEntity.SmartBlockEntity.<init>(SmartBlockEntity.java:52) ~[create-1.21.1-6.0.4.jar%23412!/:6.0.4]
+	at TRANSFORMER/createenderlink@1.3.0/io.github.cotrin8672.cel.content.block.vault.EnderVaultBlockEntity.<init>(EnderVaultBlockEntity.kt:25) ~[createenderlink-1.3.0+mc1.21.1-neoforge.jar%23428!/:?]
+	at TRANSFORMER/Registrate.MC1._21._67@1.3.0+67/com.tterrag.registrate.builders.BlockEntityBuilder.lambda$createEntry$2(BlockEntityBuilder.java:152) ~[Registrate-MC1.21-1.3.0+67.jar%23810!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.block.entity.BlockEntityType.create(BlockEntityType.java:298) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/create@6.0.4/com.simibubi.create.foundation.block.IBE.newBlockEntity(IBE.java:64) ~[create-1.21.1-6.0.4.jar%23412!/:6.0.4]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.LevelChunk.redirect$bbh000$lithium$createBlockEntityWithCachedStateFix(LevelChunk.java:2774) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.LevelChunk.setBlockState(LevelChunk.java:294) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.Level.setBlock(Level.java:236) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.Level.setBlock(Level.java:212) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.BlockItem.placeBlock(BlockItem.java:161) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.BlockItem.place(BlockItem.java:67) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/createenderlink@1.3.0/io.github.cotrin8672.cel.content.block.SharedStorageBlockItem.place(SharedStorageBlockItem.kt:35) ~[createenderlink-1.3.0+mc1.21.1-neoforge.jar%23428!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.BlockItem.useOn(BlockItem.java:45) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/neoforge@21.1.169/net.neoforged.neoforge.common.CommonHooks.onPlaceItemIntoWorld(CommonHooks.java:614) ~[neoforge-21.1.169-universal.jar%23362!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.item.ItemStack.useOn(ItemStack.java:360) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:383) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1123) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:42) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:10) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:27) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23361!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fml_loader@4.0.39/net.neoforged.fml.common.asm.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:60) ~[loader-4.0.39.jar%2359!/:4.0]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:94) ~[modlauncher-11.0.4.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-11.0.4.jar%2364!/:?]
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@11.0.4/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:57) ~[modlauncher-11.0.4.jar%2364!/:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:190) ~[securejarhandler-3.0.8.jar:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$20(ModuleClassLoader.java:298) ~[securejarhandler-3.0.8.jar:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:311) ~[securejarhandler-3.0.8.jar:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:298) ~[securejarhandler-3.0.8.jar:?]
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:214) ~[securejarhandler-3.0.8.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 36 more
+[10May2025 00:27:06.170] [Server thread/FATAL] [net.neoforged.neoforge.common.NeoForgeMod/]: Preparing crash report with UUID 3f3169d9-748e-4362-92ca-8b1a2aa4ed21
+[10May2025 00:27:06.172] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: D:\Spil\mineserv\GlorpSMP.1.2.3\crash-reports\crash-2025-05-10_00.27.06-server.txt
+[10May2025 00:27:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10May2025 00:27:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10May2025 00:27:06.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ung_Balle lost connection: Server closed
+[10May2025 00:27:06.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ung_Balle left the game
+[10May2025 00:27:06.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10May2025 00:27:06.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10May2025 00:27:11.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10May2025 00:27:11.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10May2025 00:27:11.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10May2025 00:27:11.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[10May2025 00:27:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10May2025 00:27:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10May2025 00:27:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10May2025 00:27:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10May2025 00:27:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[10May2025 00:27:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10May2025 00:27:13.491] [Server thread/INFO] [DragonLib/]: Stopping DragonLib Network Manager (Server) worker thread...
+[10May2025 00:27:13.492] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been stopped!
+[10May2025 00:27:13.494] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10May2025 00:27:13.496] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10May2025 00:27:13.497] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[10May2025 00:27:13.500] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config pickupnotifier\pickupnotifier-server.toml
+[10May2025 00:27:13.501] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easyanvils-server.toml
+[10May2025 00:27:13.502] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config universalbonemeal-server.toml
+[10May2025 00:27:13.502] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config spikyspikes-server.toml
+[10May2025 00:27:13.502] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config iteminteractions-server.toml
+[10May2025 00:27:13.539] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config tradingpost-server.toml
+[10May2025 00:27:13.540] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easymagic-server.toml
+[10May2025 00:27:13.541] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config magnumtorch-server.toml
+[10May2025 00:27:13.541] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config barteringstation-server.toml
+[10May2025 00:27:13.542] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config bettertridents-server.toml
+[10May2025 00:27:13.543] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config moblassos-server.toml

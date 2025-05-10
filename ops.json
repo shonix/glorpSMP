@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "1e8f11e6-f016-44dc-8b53-210647cb3a6b",
+    "name": "Ung_Balle",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9eb7c2bf-1bfc-459f-a62e-bde010cf9c44",
+    "name": "Shonix",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -37,7 +37,7 @@
 			
 			# Constrain maximum map zoom-out based on number of explored regions and available memory
 			# Default: true
-			max_zoom_constraint: true
+			max_zoom_constraint: false
 			
 			# Periodically release region data for non-recently-used regions to save memory (units of seconds, 0 disables releasing
 			# Default: 300
@@ -133,86 +133,154 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"aquaculture:minnow": false
-			"twilightforest:deer": true
-			"minecraft:iron_golem": true
-			"minecraft:skeleton": true
-			"aquaculture:atlantic_herring": false
+			"minecraft:trader_llama": true
+			"minecraft:armadillo": true
 			"cataclysm:the_prowler": true
-			"ars_nouveau:gift_starby": true
-			"minecraft:horse": true
-			"mekanismadditions:baby_enderman": true
-			"twilightforest:redcap": true
-			"minecraft:salmon": false
-			"cataclysm:coralssus": true
-			"minecraft:sheep": true
-			"minecraft:tropical_fish": false
-			"minecraft:drowned": true
 			"minecraft:dolphin": true
-			"minecraft:villager": true
-			"aquaculture:smallmouth_bass": false
-			"aquaculture:muskellunge": false
-			"minecraft:llama": true
-			"cataclysm:deepling": true
-			"ars_nouveau:whirlisprig": true
-			"minecraft:fox": true
-			"minecraft:axolotl": true
-			"twilightforest:tiny_bird": true
+			"aquaculture:atlantic_herring": false
+			"minecraft:shulker": true
+			"minecraft:pufferfish": false
+			"minecraft:skeleton": true
 			"minecraft:rabbit": true
-			"aquaculture:jellyfish": false
-			"minecraft:spider": true
-			"minecraft:goat": true
-			"aquaculture:carp": false
+			"minecraft:cod": false
+			"endermanoverhaul:swamp_enderman": true
+			"creeperoverhaul:ocean_creeper": true
+			"ars_nouveau:gift_starby": true
+			"twilightforest:redcap": true
+			"minecraft:magma_cube": true
+			"endermanoverhaul:warped_forest_enderman": true
+			"goblintraders:goblin_trader": true
+			"minecraft:llama": true
+			"twilightforest:dwarf_rabbit": true
+			"endermanoverhaul:snowy_enderman": true
+			"cataclysm:the_harbinger": true
+			"creeperoverhaul:hills_creeper": true
+			"twilightforest:penguin": true
+			"minecraft:glow_squid": true
+			"minecraft:bogged": true
+			"minecraft:panda": true
+			"minecraft:blaze": true
+			"minecraft:creeper": true
+			"minecraft:sheep": true
+			"minecraft:breeze": true
+			"minecraft:pig": true
+			"minecraft:squid": true
+			"minecraft:zombie_villager": true
+			"aquaculture:smallmouth_bass": false
+			"minecraft:phantom": true
+			"minecraft:ender_dragon": true
+			"creeperoverhaul:dark_oak_creeper": true
+			"minecraft:zombified_piglin": true
+			"minecraft:wither": true
 			"minecraft:bat": true
-			"aquaculture:synodontis": false
-			"twilightforest:raven": true
-			"minecraft:chicken": true
-			"aquaculture:gar": false
+			"goblintraders:vein_goblin_trader": true
+			"cataclysm:deepling_brute": true
+			"mekanismadditions:baby_skeleton": true
+			"endermanoverhaul:cave_enderman": true
+			"cataclysm:ender_golem": true
+			"cataclysm:deepling_angler": true
+			"endermanoverhaul:nether_wastes_enderman": true
+			"aquaculture:brown_trout": false
+			"twilightforest:deer": true
+			"aquaculture:carp": false
+			"creeperoverhaul:dripstone_creeper": true
+			"cataclysm:deepling": true
+			"minecraft:zombie": true
 			"ars_nouveau:alakarkinos": true
+			"twilightforest:winter_wolf": true
+			"aquaculture:jellyfish": false
+			"minecraft:skeleton_horse": true
+			"cataclysm:ender_guardian": true
+			"creeperoverhaul:snowy_creeper": true
+			"minecraft:witch": true
+			"minecraft:fox": true
+			"creeperoverhaul:bamboo_creeper": true
+			"mekanismadditions:baby_enderman": true
+			"twilightforest:kobold": true
+			"minecraft:enderman": true
+			"aquaculture:bluegill": false
+			"minecraft:axolotl": true
+			"minecraft:tropical_fish": false
+			"minecraft:iron_golem": true
+			"mekanismadditions:baby_creeper": true
+			"minecraft:goat": true
+			"creeperoverhaul:spruce_creeper": true
+			"ars_elemental:summon_dolphin": true
+			"twilightforest:raven": true
+			"minecraft:turtle": true
+			"minecraft:cow": true
+			"ars_nouveau:whirlisprig": true
+			"minecraft:chicken": true
+			"minecraft:allay": true
+			"endermanoverhaul:end_enderman": true
+			"creeperoverhaul:cave_creeper": true
+			"ars_nouveau:wilden_guardian": true
+			"minecraft:elder_guardian": true
+			"minecraft:cave_spider": true
+			"minecraft:pillager": true
+			"artifacts:mimic": true
+			"minecraft:horse": true
+			"minecraft:strider": true
+			"endermanoverhaul:flower_fields_enderman": true
+			"minecraft:evoker": true
+			"cataclysm:coralssus": true
+			"twilightforest:tiny_bird": true
+			"ars_nouveau:drygmy": true
+			"minecraft:villager": true
+			"mekanismadditions:baby_wither_skeleton": true
+			"minecraft:vex": true
+			"aquaculture:catfish": false
+			"minecraft:vindicator": true
+			"cataclysm:endermaptera": true
+			"creeperoverhaul:birch_creeper": true
+			"aquaculture:box_turtle": false
+			"minecraft:piglin": true
+			"aquaculture:minnow": false
+			"endermanoverhaul:hammerhead_pet_enderman": true
+			"aquaculture:muskellunge": false
+			"cataclysm:netherite_ministrosity": true
+			"minecraft:wandering_trader": true
+			"twilightforest:boar": true
+			"twilightforest:death_tome": true
+			"minecraft:cat": true
+			"ars_nouveau:summon_wolf": true
+			"cataclysm:modern_remnant": true
+			"minecraft:drowned": true
+			"endermanoverhaul:end_islands_enderman": true
+			"creeperoverhaul:jungle_creeper": true
+			"creeperoverhaul:beach_creeper": true
+			"minecraft:salmon": false
+			"endermanoverhaul:dark_oak_enderman": true
+			"aquaculture:synodontis": false
+			"endermanoverhaul:crimson_forest_enderman": true
+			"aquaculture:perch": false
+			"minecraft:wither_skeleton": true
+			"minecraft:donkey": true
+			"cataclysm:netherite_monstrosity": true
+			"minecraft:frog": true
+			"minecraft:silverfish": true
+			"cataclysm:the_watcher": true
+			"minecraft:ocelot": true
+			"twilightforest:squirrel": true
+			"twilightforest:swarm_spider": true
+			"minecraft:guardian": true
+			"minecraft:hoglin": true
+			"minecraft:spider": true
 			"ars_nouveau:starbuncle": true
 			"twilightforest:bighorn_sheep": true
-			"minecraft:frog": true
-			"minecraft:zombie": true
-			"artifacts:mimic": true
-			"minecraft:turtle": true
-			"aquaculture:brown_trout": false
+			"aquaculture:gar": false
+			"endermanoverhaul:savanna_enderman": true
 			"minecraft:wolf": true
-			"minecraft:enderman": true
-			"minecraft:donkey": true
-			"minecraft:squid": true
+			"ars_nouveau:wilden_hunter": true
 			"minecraft:bee": true
-			"twilightforest:squirrel": true
-			"cataclysm:the_harbinger": true
-			"minecraft:bogged": true
-			"minecraft:pufferfish": false
-			"minecraft:cod": false
-			"cataclysm:the_watcher": true
-			"minecraft:glow_squid": true
-			"minecraft:cow": true
-			"aquaculture:catfish": false
-			"cataclysm:deepling_brute": true
-			"minecraft:pillager": true
-			"twilightforest:boar": true
-			"minecraft:witch": true
-			"cataclysm:modern_remnant": true
-			"mekanismadditions:baby_creeper": true
-			"cataclysm:netherite_monstrosity": true
-			"aquaculture:box_turtle": false
-			"twilightforest:dwarf_rabbit": true
-			"twilightforest:kobold": true
-			"minecraft:cave_spider": true
-			"aquaculture:perch": false
-			"ars_nouveau:drygmy": true
-			"minecraft:pig": true
-			"minecraft:cat": true
+			"ars_elemental:summon_skelehorse": true
+			"minecraft:piglin_brute": true
 			"cataclysm:lionfish": true
-			"cataclysm:deepling_angler": true
-			"minecraft:zombie_villager": true
-			"mekanismadditions:baby_skeleton": true
 			"cataclysm:koboleton": true
-			"aquaculture:bluegill": false
-			"minecraft:creeper": true
 			"minecraft:slime": true
+			"endermanoverhaul:axolotl_pet_enderman": true
+			"minecraft:ghast": true
+			"minecraft:parrot": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
